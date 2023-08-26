@@ -25,7 +25,7 @@ Hello! I'm Prithiraj Rabha, a final year B.Tech CSE student with a strong intere
 
 Let's connect and share our explorations:
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
+- [LinkedIn](https://www.linkedin.com/in/prithirabha/)
 
 [Feel free to add any other ways to connect or additional information about yourself here.]
 
