@@ -1,4 +1,4 @@
-### [ This is currentcly work in progress, so come back later :) ]
+### [ This is currently work in progress, so come back later :) ]
 
 # Welcome to My GitHub Profile! 👋
 
