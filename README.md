@@ -12,14 +12,13 @@ Hello! I'm Prithiraj Rabha, a final year B.Tech CSE student with a strong intere
 
 ## Project Highlight
 
-### [Project Name]
+### Attendance System
 
-[Short description of the project you're most proud of.]
+This project is a WIP and it is a team based project. Will soon try to create a demo video or web based application demo.
 
-![Project Screenshot](/screenshots/project.png)
+![Project Screenshot](https://user-images.githubusercontent.com/127822494/257903527-0e72b5ec-21c2-4c30-87fc-3f47bed03d33.png)
 
-- [Repository Link](https://github.com/yourusername/project)
-- [Try it out](https://yourwebsite.com/project) (if applicable)
+- [Repository Link](https://xaphne.github.io/AttendanceSystem)
 
 ## Connect with Me
 
@@ -34,9 +33,10 @@ Looking forward to learning and growing together with fellow tech enthusiasts!
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-
+<!--
 ## Favorite Quote
 
 > "Your quote here." - Author
 
+-->
 Thanks for visiting and happy exploring! ✨
