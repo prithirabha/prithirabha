@@ -1,5 +1,3 @@
-### [ This is currently work in progress, so come back later :) ]
-
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
@@ -26,17 +24,10 @@ Let's connect and share our explorations:
 
 - [LinkedIn](https://www.linkedin.com/in/prithirabha/)
 
-[Feel free to add any other ways to connect or additional information about yourself here.]
-
 Looking forward to learning and growing together with fellow tech enthusiasts!
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=prithirabha&show_icons=true)
-<!--
-## Favorite Quote
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=prithirabha&show_icons=true&theme=dark)
 
-> "Your quote here." - Author
-
--->
 Thanks for visiting and happy exploring! ✨
