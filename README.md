@@ -12,7 +12,7 @@ Hello! I'm Prithiraj Rabha, a final year B.Tech CSE student with a strong intere
 
 ### Attendance System
 
-This project is a WIP and it is a team based project. Will soon try to create a demo video or web based application demo.
+<!-- This project is a WIP and it is a team based project. Will soon try to create a demo video or web based application demo. -->
 
 ![Project Screenshot](https://user-images.githubusercontent.com/127822494/257903527-0e72b5ec-21c2-4c30-87fc-3f47bed03d33.png)
 
