@@ -33,10 +33,5 @@ Looking forward to learning and growing together with fellow tech enthusiasts!
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=prithirabha&show_icons=true)
-<!--
-## Favorite Quote
 
-> "Your quote here." - Author
-
--->
 Thanks for visiting and happy exploring! ✨
