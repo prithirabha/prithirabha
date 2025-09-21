@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm Prithiraj Rabha, a B.Tech CSE grad with a strong interest in application development. I'm currently in the phase of exploring different possibilities and technologies to find my niche in the world of software development.
+Hello! I'm Prithiraj Rabha, a M.Tech CSE-IS student with a strong interest in application development. I'm currently in the phase of exploring different possibilities and technologies to find my niche in the world of software development.
 
 - 🌱 I’m currently exploring various technologies, with a focus on PHP and Laravel framework for building interactive and user-friendly cross-platform applications.
 - 💬 Let's chat about your own exploration journey, application development, or any exciting tech topics you'd like to discuss!
